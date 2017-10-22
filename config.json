@@ -1,0 +1,6 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/ezerp",
+    "apiUrl": "http://localhost:3000/api",
+    "appPort": 3000,
+    "secret": "none"
+}
